@@ -52,7 +52,7 @@ then
 elif [ "$1" = "depFunc1" ]
 then
     echo "Attempting to Deploy to $sandboxAlias.."
-    //sfdx force:source:push -f -u $sandboxAlias
+    #sfdx force:source:push -f -u $sandboxAlias
     sf deploy functions -o $sandboxAlias
 elif [ "$1" = "runFunc1" ]
 then
