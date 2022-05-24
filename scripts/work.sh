@@ -2,10 +2,10 @@
 
 export devhub="JavaDevHub"
 export scratchOrg="WSteeleJava"
-export DevHubURL="http://functionworkshopcom.my.salesforce.com"
+export DevHubURL="https://functionworkshopcom.my.salesforce.com"
 export DevHubUsername="wsteele@salesforce.com.functionsworkshop3"
 export scratchOrgUserName="test-qluy4umhvpb5@example.com"
-export sandboxURL="http://functionworkshopcom--f3wsteele.my.salesforce.com"
+export sandboxURL="https://functionworkshopcom--f3wsteele.my.salesforce.com"
 export sandboxUsername="wsteele@salesforce.com.functionsworkshop3.F3wsteele"
 export sandboxAlias="F3wsteele"
 export sandboxCompute="F3wsteeleCompute"
